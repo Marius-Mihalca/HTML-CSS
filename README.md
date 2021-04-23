@@ -1,2 +1,2 @@
-iOS 7 main icons using HTML and CSS.
-Day and Night Toggles.
+iOS  main icons using HTML and CSS.
+
